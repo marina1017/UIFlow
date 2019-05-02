@@ -1,0 +1,142 @@
+[Todayタブ]  
+■ナビゲーションバー
+・News
+・日付
+■ニュース
+・ニュースのサムネイル
+・ニュースの提供元
+・ニュースのタイトル
+・ニュースが配信されて何分経過したのか
+■ニュースの種類
+・Top Stories
+・More For You
+・Trending Stories
+・SPOTLIGHT Conversation Starters
+・For You
+・Movies
+・Food
+・Top Videos
+・Travel
+・New Issue
+・Technology
+・Business
+・Politics
+・At Home
+・Health
+・Fashion
+・Entertainment
+・Inside Politics
+・Sports
+・More For You
+■タブバー
+・Today
+・News+
+・Following
+--
+ニュースのセルを押す
+==> ニュース
+MORE TOP STORIES ▶ セルを押す
+==> News Top Stories
+Following ボタン
+==> Following Button
+Block News ボタン
+==> Block News Today
+News+(タブバー)を押す
+==> News+タブ
+Following(タブバー)を押す
+==> Followingタブ
+
+[Block News Today]
+・Block Topic
+・Stop Suggesting
+・Cancel
+--
+Cancelボタン
+==> Todayタブ
+
+
+[ニュース]
+■ナビゲーションバー
+・ニュースの提供元
+■ニュース
+・ニュースのタイトル
+・ニュースのサムネイル
+・ニュースの提供元
+・ニュースの配信時間
+・ニュースの本文
+--
+NEXT→(次のニュースへ)
+==> ニュース
+
+
+
+[News Top Stories]
+■ナビゲーションバー
+タイトル:News Top Stories
+右:Following ボタン
+右:Block News ボタン
+■ニュース
+・ニュースのサムネイル
+・ニュースの提供元
+・ニュースのタイトル
+・ニュースが配信されて何分経過したのか
+--
+ニュースのセルを押す
+==> ニュース
+Following ボタン
+==> Following Button
+Block News ボタン
+==> Block News
+
+[Following Button]  
+(ポップアップ 数秒後消える)
+・タイトル:Following
+・説明: We'll show more stories from News Top Stories.
+
+
+[Block News]
+(OSのダイアログ)
+・タイトル:Block News Top Stories
+・説明: If you block Top Stories.
+We'll stop showing stories from this channel.
+You can always change this later
+--
+cancel ボタン
+==> cancel
+Block ボタン
+==> Block
+
+
+
+[News+タブ]  
+■ナビゲーションバー
+タイトル:News+
+サブタイトル:Magazines
+
+[Followingタブ]
+■ナビゲーションバー
+タイトル:Following
+■検索窓
+・Channels, Topics, and Stories
+
+■CHANNELS＆TOPICS
+■SUGGESTED BY SIRI
+■Saved Stories
+■History
+
+■PERSONALIZE YOUR NEWS
+・Follow your favorite channels and topics to improve your reading experience.
+・ボタン:Discover Channels & Topics
+
+■Manage Notifications
+■Manage Subscriptions
+--
+CHANNELS＆TOPICSを押す
+==> News Top Stories
+Following(タブバー)を押す
+==> Followingタブ
+
+
+
+
+
